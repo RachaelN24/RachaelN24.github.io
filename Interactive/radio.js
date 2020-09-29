@@ -42,7 +42,7 @@ function draw() {
         image(radio2, 240, 100);
     }
     textSize(24);
-    text('Hey - press play', 450, 40);
+    text('Hey - press play', 420, 40);
 }
 
 function mouseClicked() {
